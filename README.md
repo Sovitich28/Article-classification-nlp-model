@@ -64,7 +64,3 @@ The Multinomial Naive Bayes model achieves:
 - Training Accuracy: 99%
 - Test Accuracy: 96%
 - High precision and recall across different news categories
-
-## License
-
-This project is available for educational and research purposes.
